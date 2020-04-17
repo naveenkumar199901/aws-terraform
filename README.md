@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Terraform AWS Use cases
-Terraform template for AWS provider
+Terraform for AWS 
 
 # How to use
 
